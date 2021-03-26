@@ -1,0 +1,53 @@
+section{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    margin: 0.5rem;
+}
+
+.callout1{
+    background-color: wheat;
+    float: left;
+    margin: 0.5rem;
+    padding: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.callout2{
+    background-color: wheat;
+    float: left;
+    margin: 0.5rem;
+    padding: auto;
+    width: 100%;
+    text-align: center;
+}
+
+.unos{
+    width: 50%;
+}
+
+button{
+    background-color: rgb(218, 184, 218);
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 15px;
+    margin: auto;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(238, 204, 238);
+}
+
+
+h2{
+    text-align: center;
+    margin: 0.5rem;
+    padding: auto;
+}
+
+.video{
+    margin: 0.5;
+}

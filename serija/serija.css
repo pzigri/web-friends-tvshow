@@ -1,0 +1,43 @@
+section{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    margin: 0.5rem;
+}
+
+.callout1{
+    background-color: wheat;
+    text-align: center;
+    float: left;
+    margin: 0.5rem;
+    padding: auto;
+    width: 45%;
+}
+
+.callout2{
+    background-color: wheat;
+    text-align: center;
+    float: right;
+    margin: 0.5rem;
+    padding: auto;
+    width: 45%;
+    align-content: center;
+}
+
+.callout3{
+    background-color: wheat;
+    text-align: center;
+    float: right;
+    margin: 0.5rem;
+    width: 45%;
+}
+
+h2{
+    text-align: center;
+    margin: 0.5rem;
+    padding: auto;
+}
+
+.video{
+    margin: 0.5;
+
+}

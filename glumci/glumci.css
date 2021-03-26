@@ -1,0 +1,91 @@
+section{
+    padding-left: 15rem;
+    padding-right: 15rem;
+}
+
+.callout1{
+    margin: auto;
+    padding: auto;
+    width: 100%;
+    background-color: wheat;
+    border-color: wheat;
+}
+
+.callout2{
+    margin: 0.5rem;
+    padding: auto;
+    text-align: center;
+    width: 100%;
+}
+
+table{
+    border-spacing: 0.2rem;
+    font-size: 1rem;
+    border-collapse: separate;
+    text-align: center;
+    width: 100%;
+}
+
+td{
+    font-size: 1rem;
+    text-align: center;
+    width: 5rem;
+    background-color: wheat;
+}
+
+tr{
+    font-size: 1rem;
+    border-collapse: separate;
+    text-align: center;
+    width: 5rem;
+    background-color: wheat;
+}
+
+th{
+    background-color: wheat;
+    text-align: center;
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+h3{
+    text-align: center;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 15px;
+    float: left;
+    width: 70%;
+    background: #f1f1f1;
+    margin: auto;
+  }
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 12px;
+    background: #9aa1a5;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #b8c0c4;
+  }
+
+  form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+  }

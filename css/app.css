@@ -1,0 +1,162 @@
+.top-bar{
+    background-color: rgb(230, 205, 230);   
+    margin: auto;
+    padding: 0.5rem;
+    width: 100%;
+}
+
+.dropdown.menu{
+    background: transparent;
+    color: white;
+}
+
+.menu.vertical {
+    background: rgb(230, 205, 230);
+}
+
+.menu.vertical:hover{
+    color: white;
+}
+
+.dropdown.menu:hover{
+    color: white;
+}
+
+a{
+    color:rgb(78, 78, 78);
+}
+
+a:hover{
+    color:rgb(156, 155, 155);
+}
+
+body{
+    background-color: rgb(248, 233, 204);
+}
+
+section{
+    padding-left: 15rem;
+    padding-right: 15rem;
+    margin: 0.5;
+}
+
+p{
+    margin: 1rem;
+    text-align: left;
+}
+
+h3{
+    margin: 1rem;
+    padding: auto;
+}
+
+.slika1{
+    width: 10%;
+}
+
+img{
+    padding: 0.5rem;
+}
+
+.slika2{
+    margin: auto;
+    padding: auto;
+    width: 60%;
+    float: left;
+}
+
+.callout{
+    background-color: wheat;
+    border-color: wheat;
+    margin: 0.5rem;
+    padding: auto;
+    float: right;
+}
+
+div{
+    margin: auto;
+    padding: auto;
+}
+
+.card{
+    background-color: wheat;
+    border-color:wheat;;
+    height: 38rem;
+    width: 100%;
+    float: center;
+    margin: auto;
+}
+
+.card:hover{
+    opacity: 70%;
+}
+
+.card-divider{
+    background-color: rgb(248, 233, 204);
+}
+
+.menu.icons.icon-left .da:hover {
+	color: black;
+	transition: transform .2s; 
+	transform: scale(1.5);
+    padding: auto;
+    margin: 0.5rem;
+}
+
+.aa:link {
+  color:black;
+  text-decoration: none;
+}
+
+.aa:visited {
+    color: black;
+  }
+
+.aa:hover {
+  color: black;
+}
+
+.aa:active {
+    color:black;
+}
+
+.callout-footer{
+    text-align: center;
+    max-width: max-content;
+    margin: auto;
+    padding-bottom: 2rem;
+}
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+  form.example input[type=text] {
+    padding: 10px;
+    font-size: 15px;
+    float: left;
+    width: 70%;
+    background: #f1f1f1;
+    margin: auto;
+  }
+  
+  form.example button {
+    float: left;
+    width: 20%;
+    padding: 12px;
+    background: #9aa1a5;
+    color: white;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  
+  form.example button:hover {
+    background: #b8c0c4;
+  }
+
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
